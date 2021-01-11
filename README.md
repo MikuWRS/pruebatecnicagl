@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.6.6
 
-* System dependencies
+* Rails version 6.0.0
 
-* Configuration
+* PostgreSQL gem 1.2.3
 
-* Database creation
+* Spree 4.1 para Rails 6.0
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Configuracion basica, sin cambios en codigos. Solo ejecuciones por consola segun la documentacion para instalacion.
