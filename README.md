@@ -14,3 +14,8 @@ Things you may want to cover:
 * Spree 4.1 para Rails 6.0
 
 Configuracion basica, sin cambios en codigos. Solo ejecuciones por consola segun la documentacion para instalacion.
+
+-----------  COSAS POR HACER  -----------
+
+- Cambiar el idioma
+- Cambiar el formato de pago sin que tire error
